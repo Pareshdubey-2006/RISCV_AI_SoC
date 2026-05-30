@@ -123,7 +123,7 @@ docs/
 
 ![Slice LUTs](docs/LUT.png)
 ![Registers](docs/registers.png)
-![Block Ram and DSP Blocks](docs/memory_dsp.png)
+![Block Ram and DSP Blocks](docs/memory_dsp.png.png)
 
 Implementation Summary:
 
