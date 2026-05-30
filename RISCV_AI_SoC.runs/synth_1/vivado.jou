@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Wed May 27 10:53:54 2026
+# Process ID         : 16136
+# Current directory  : C:/Users/pares/RISCV_AI_SoC/RISCV_AI_SoC.runs/synth_1
+# Command line       : vivado.exe -log soc_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source soc_top.tcl
+# Log file           : C:/Users/pares/RISCV_AI_SoC/RISCV_AI_SoC.runs/synth_1/soc_top.vds
+# Journal file       : C:/Users/pares/RISCV_AI_SoC/RISCV_AI_SoC.runs/synth_1\vivado.jou
+# Running On         : Paresh
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) Ultra 5 125H
+# CPU Frequency      : 2995 MHz
+# CPU Physical cores : 14
+# CPU Logical cores  : 18
+# Host memory        : 16568 MB
+# Swap memory        : 2941 MB
+# Total Virtual      : 19510 MB
+# Available Virtual  : 4766 MB
+#-----------------------------------------------------------
+source soc_top.tcl -notrace

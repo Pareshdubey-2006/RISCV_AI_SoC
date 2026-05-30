@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_soc_top_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_soc_top" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000000 ms"></ZoomStartTime>
+      <ZoomEndTime time="6.701292642 ms"></ZoomEndTime>
+      <Cursor1Time time="15.374995000 ms"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="141"></NameColumnWidth>
+      <ValueColumnWidth column_width="140"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/tb_soc_top/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_soc_top/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_soc_top/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_soc_top/we_a" type="logic">
+      <obj_property name="ElementShortName">we_a</obj_property>
+      <obj_property name="ObjectShortName">we_a</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_soc_top/we_b" type="logic">
+      <obj_property name="ElementShortName">we_b</obj_property>
+      <obj_property name="ObjectShortName">we_b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_soc_top/data_in_a" type="array">
+      <obj_property name="ElementShortName">data_in_a[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_in_a[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_soc_top/data_in_b" type="array">
+      <obj_property name="ElementShortName">data_in_b[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_in_b[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_soc_top/addr_a" type="array">
+      <obj_property name="ElementShortName">addr_a[3:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_a[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_soc_top/addr_b" type="array">
+      <obj_property name="ElementShortName">addr_b[3:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_b[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_soc_top/WIDTH" type="array">
+      <obj_property name="ElementShortName">WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">WIDTH[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_soc_top/N" type="array">
+      <obj_property name="ElementShortName">N[31:0]</obj_property>
+      <obj_property name="ObjectShortName">N[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_soc_top/dut/accel_inst/accelerator_core/out00" type="array">
+      <obj_property name="ElementShortName">out00[15:0]</obj_property>
+      <obj_property name="ObjectShortName">out00[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_soc_top/dut/accel_inst/accelerator_core/out01" type="array">
+      <obj_property name="ElementShortName">out01[15:0]</obj_property>
+      <obj_property name="ObjectShortName">out01[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_soc_top/dut/accel_inst/accelerator_core/out10" type="array">
+      <obj_property name="ElementShortName">out10[15:0]</obj_property>
+      <obj_property name="ObjectShortName">out10[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_soc_top/dut/accel_inst/accelerator_core/out11" type="array">
+      <obj_property name="ElementShortName">out11[15:0]</obj_property>
+      <obj_property name="ObjectShortName">out11[15:0]</obj_property>
+   </wvobject>
+</wave_config>

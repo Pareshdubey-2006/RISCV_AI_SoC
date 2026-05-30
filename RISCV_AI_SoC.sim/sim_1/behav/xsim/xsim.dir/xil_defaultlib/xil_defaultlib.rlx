@@ -1,0 +1,13 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Users/pares/RISCV_AI_SoC/RISCV_AI_SoC.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Users/pares/RISCV_AI_SoC/rtl/accelerator/accelerator_wrapper.v,1779789817,verilog,,C:/Users/pares/RISCV_AI_SoC/rtl/dma/dma_controller.v,,accelerator_wrapper,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/pares/RISCV_AI_SoC/rtl/accelerator/pe.v,1779295422,verilog,,C:/Users/pares/RISCV_AI_SoC/rtl/cpu/picorv32.v,,pe,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/pares/RISCV_AI_SoC/rtl/accelerator/systolic_nxn.v,1779789827,verilog,,C:/Users/pares/RISCV_AI_SoC/tb/tb_soc_top.v,,systolic_nxn,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/pares/RISCV_AI_SoC/rtl/cpu/picorv32.v,1779647055,verilog,,C:/Users/pares/RISCV_AI_SoC/rtl/top/soc_top.v,,picorv32;picorv32_axi;picorv32_axi_adapter;picorv32_pcpi_div;picorv32_pcpi_fast_mul;picorv32_pcpi_mul;picorv32_regs;picorv32_wb,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/pares/RISCV_AI_SoC/rtl/dma/dma_controller.v,1779704970,verilog,,C:/Users/pares/RISCV_AI_SoC/rtl/memory/memory_block.v,,dma_controller,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/pares/RISCV_AI_SoC/rtl/memory/memory_block.v,1779617507,verilog,,C:/Users/pares/RISCV_AI_SoC/rtl/accelerator/pe.v,,memory_block,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/pares/RISCV_AI_SoC/rtl/top/soc_top.v,1779793580,verilog,,C:/Users/pares/RISCV_AI_SoC/rtl/accelerator/systolic_nxn.v,,soc_top,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/pares/RISCV_AI_SoC/tb/tb_soc_top.v,1779789901,verilog,,,,tb_soc_top,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,

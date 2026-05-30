@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Time=0 | out00=    x out01=    x out10=    x out11=    x
+Time=15000 | out00=    0 out01=    x out10=    x out11=    x
+Time=25000 | out00=    0 out01=    0 out10=    0 out11=    x
+Time=35000 | out00=    0 out01=    0 out10=    0 out11=    0
+Time=85000 | out00=    8 out01=    0 out10=    0 out11=    0
+Time=95000 | out00=    8 out01=   16 out10=    8 out11=    8
+Time=105000 | out00=    8 out01=   16 out10=    8 out11=   16
+$finish called at time : 170 ns : File "C:/Users/pares/RISCV_AI_SoC/tb/tb_soc_top.v" Line 127
