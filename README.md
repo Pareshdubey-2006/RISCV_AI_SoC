@@ -34,7 +34,7 @@ DMA Controller
 N×N Systolic Accelerator
     ↓
 Output Matrix
-
+```
 
 ## Features
 
@@ -85,7 +85,7 @@ docs/
 ├── waveform.png
 ├── floorplan.png
 └── resource_utilization.png
-
+```
 
 ## Tools Used
 
